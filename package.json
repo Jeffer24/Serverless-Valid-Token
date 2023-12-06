@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "serverless-offline": "^13.3.0"
+  }
+}
